@@ -1,5 +1,5 @@
 """
-ASGI config for tof_backend project.
+ASGI config for django_template project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
